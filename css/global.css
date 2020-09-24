@@ -172,7 +172,9 @@ input.submit {
     background-image: url("../img/icon/station-white.png");
 }
 
-
+.form{
+    width: 80%;
+}
 
 
 #albums article {
