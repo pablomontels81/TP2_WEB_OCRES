@@ -104,3 +104,8 @@ input, select {
 .clear {
     clear: both;
 }
+
+.music {
+    float: right;
+    col-2;
+}
