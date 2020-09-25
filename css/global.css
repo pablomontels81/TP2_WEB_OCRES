@@ -256,3 +256,20 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
     }
 }
 
+/* Mise en place des différents points de ruptures*/
+
+@media only screen (max-width: 450px){
+    /*Taille texte très petit*/
+    font-size: xx-small;
+}
+
+@media only screen (min-width: 451px) and (max-width: 600px){
+    /*Taille texte petit*/
+    font-size: x-small;
+}
+
+@media only screen (min-width: 1400px){
+    /*Taille texte grossi*/
+    font-size: x-large;
+}
+
